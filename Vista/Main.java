@@ -1,5 +1,9 @@
 package Vista;
 
+import Funcionarios.Funcionarios;
+import Registro.RegistrarTiempo;
+import Registro.RegistroTrabajadores;
+
 import java.time.LocalTime;
 
 public class Main {

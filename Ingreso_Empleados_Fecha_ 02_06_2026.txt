@@ -1,0 +1,6 @@
+Rut: 12.345.678-9 | Nombre: Ana Silva | Hora de [Ingreso]: 08:15 
+Rut: 98.765.432-1 | Nombre: Carlos Gómez | Hora de [Ingreso]: 08:45 Atrasado
+Rut: 11.222.333-4 | Nombre: Luisa Pérez | Hora de [Ingreso]: 08:30 
+Rut: 12.345.678-9 | Nombre: Ana Silva | Hora de [Ingreso]: 08:15 
+Rut: 98.765.432-1 | Nombre: Carlos Gómez | Hora de [Ingreso]: 08:45 Atrasado
+Rut: 11.222.333-4 | Nombre: Luisa Pérez | Hora de [Ingreso]: 08:30 
